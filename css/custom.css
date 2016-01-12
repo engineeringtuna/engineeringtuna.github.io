@@ -1,9 +1,11 @@
+.linkbackground {
+    background-color: #312d2e;
+}
 .linkbar {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
     width:100%;
 }
 
